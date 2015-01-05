@@ -1,5 +1,8 @@
 os: unstable
 
+environment:
+  PlatformToolset: v120
+
 build_script:
 - build create-release
 
