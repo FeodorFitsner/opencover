@@ -1,0 +1,6 @@
+os: unstable
+
+build_script:
+- build create-release
+
+test: off
